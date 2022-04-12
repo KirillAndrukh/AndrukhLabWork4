@@ -1,2 +1,2 @@
 total 0
--rw-r--r-- 1 khand 197609 0 апр 12 21:15 file_list.txt
+-rw-r--r-- 1 khand 197609 0 апр 12 21:47 file_list.txt
