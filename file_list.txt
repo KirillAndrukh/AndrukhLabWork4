@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 khand 197609 0 апр 12 19:30 file_list.txt
